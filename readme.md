@@ -3,7 +3,6 @@
 These calculators find the distance between two points on a 2D plane, in a 3D space, as well as along the surface of the Earth with Lambert’s formulas.
 
 ![Distance Calculator Input Form](/assets/images/screenshot-1.png "Distance Calculator Input Form")
-![Distance Calculator Calculation Results](/assets/images/screenshot-2.png "Distance Calculator Calculation Results")
 
 ## Installation
 
